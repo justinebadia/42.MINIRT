@@ -1,5 +1,5 @@
 # 42.MINIRT
-*Coding a mini Raytracer in C with [JustineBadia](https://github.com/justinebadia)*
+*Coding a mini raytracer in C with [Rurikide](https://github.com/Rurikide)*
 
 ## *OVERVIEW*
 
